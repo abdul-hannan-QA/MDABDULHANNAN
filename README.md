@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MDABDULHANNAN
-- 👀 I’m interested in web testing
+- 👀 I’m interested in web testing and front end developer
 - 🌱 I’m currently learning automation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
